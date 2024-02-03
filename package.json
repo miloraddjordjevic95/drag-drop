@@ -1,0 +1,19 @@
+{
+  "name": "drag&drop",
+  "version": "1.0.0",
+  "description": "Drag & Drop project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": {
+    "email": "milorad.development@gmail.com",
+    "name": "Milorad Djordjevic",
+    "url": "https://www.milorad.me"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
